@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">501317085314-oa40fh49dodnef4m5qrlnp2mrrkcusfd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">501317085314</string>
+    <string name="google_api_key" translatable="false">AIzaSyAC5PsAqYTgFn7CoN9AlYwtYD17a7iY1n8</string>
+    <string name="google_app_id" translatable="false">1:501317085314:android:58860d1028757b201aec9b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAC5PsAqYTgFn7CoN9AlYwtYD17a7iY1n8</string>
+    <string name="google_storage_bucket" translatable="false">bengali-all-in-one.appspot.com</string>
+    <string name="project_id" translatable="false">bengali-all-in-one</string>
+</resources>
